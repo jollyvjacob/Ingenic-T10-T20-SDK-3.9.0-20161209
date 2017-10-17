@@ -1,0 +1,2 @@
+# Ingenic-T10_20
+Ingenic T10 T20 SDK 3.9.0 20161209
